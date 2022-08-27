@@ -19,6 +19,9 @@
   </p>
 </div>
 
+## Mein Projektpartner
+
+[Flynn Guerra](https://github.com/woqqq)
 
 # Informieren
 
@@ -103,11 +106,6 @@ Ich und Herr Guerra waren uns nicht ganz einig bei der Menge an verwendeten Date
 Oltian Kadriu - oltian.kadriu@gmx.ch
 
 Project Link: [https://github.com/okadriu/WeatherApp](https://github.com/okadriu/WeatherApp)
-
-## Mein Projektpartner
-
-[Flynn Guerra](https://github.com/woqqq)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
