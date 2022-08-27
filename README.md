@@ -106,7 +106,7 @@ Project Link: [https://github.com/okadriu/WeatherApp](https://github.com/okadriu
 
 ## Mein Projektpartner
 
-Flynn Guerra - f.guerra.inf20@stud.bbbaden.ch
+[Flynn Guerra](https://github.com/okadriu/https://github.com/woqqq)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
