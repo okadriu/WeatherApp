@@ -43,7 +43,7 @@ Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten w
 #  Planen
 
 | **Nummer** |     **Frist**     |                                     **Beschreibung**                                     | **Wer?** | **Zeit (geplant)** | **Zeit (effektiv)** |
-|:----------:|:-----------------:|:----------------------------------------------------------------------------------------:|----------|--------------------|:-------------------:|
+|:----------:|:-----------------:|:----------------------------------------------------------------------------------------:|:----------:|:--------------------:|:-------------------:|
 |     1.1    |     11.08.2022    |     Über unser ausgewähltes Projekt informieren und uns für eins entscheiden             |          | 60                 | 80                  |
 |     1.2    |     11.08.2022    |     Projekt einplanen und Zeitplan erstellen                                             |          | 90                 | 120                 |
 |     1.3    |     11.08.2022    |     Fällige Entscheidungen treffen                                                       |          | 20                 | 25                  |
@@ -73,7 +73,7 @@ Ich und Herr Guerra waren uns nicht ganz einig bei der Menge an verwendeten Date
 ## Testfälle
 
 | **Nummer** | **Voraussetzung** | **Eingabe** | **Erwartete Ausgabe** |
-|------------|-------------------|-------------|-----------------------|
+|:------------:|:-------------------:|:-------------:|:-----------------------:|
 | 1.1        |                   |             |                       |
 | 2.1        |                   |             |                       |
 | 3.1        |                   |             |                       |
@@ -82,11 +82,11 @@ Ich und Herr Guerra waren uns nicht ganz einig bei der Menge an verwendeten Date
 ## Testprotokoll
 
 | **Nummer** | **Datum** | **Resultat** | **Durchgeführt** |
-|------------|-----------|--------------|------------------|
-| **1.1.1**  |           |              |                  |
-| **2.1.1**  |           |              |                  |
-| **3.1.1**  |           |              |                  |
-| **4.1.1**  |           |              |                  |
+|:------------:|:-----------:|:--------------:|:------------------:|
+| 1.1.1  |           |              |                  |
+| 2.1.1  |           |              |                  |
+| 3.1.1  |           |              |                  |
+| 4.1.1  |           |              |                  |
 
 #  Auswerten
 
