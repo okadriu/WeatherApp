@@ -66,7 +66,7 @@ Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten w
 Wir waren uns zu beginn noch nicht sicher mit was für einem Projekt wir beginnen wollen und wir mussten zwischen einem Webshop und einem eigenen Projekt abwägen. Da viele andere Gruppen auch einen Webshop kreieren, haben wir uns für ein eigenes Projekt entschieden und sind schlussendlich auf eine Wetterapp gestossen.
 
 ### Design und verwendete Informationen: 
-Ich und Herr Guerra waren uns nicht ganz einig bei der Menge an verwendeten Daten, die wir eingeplant haben. Wir haben uns dann auf einen Kompromiss geeinigt, welche unser Bedürfnis erfüllt und eine mittelmässige Menge an Daten hat.
+Herr Guerra und ich waren uns nicht ganz einig bei der Menge an verwendeten Daten, die wir eingeplant haben. Wir haben uns dann auf einen Kompromiss geeinigt, welche unser Bedürfnis erfüllt und eine mittelmässige Menge an Daten hat.
 
 
 #  Realisieren
