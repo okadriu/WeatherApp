@@ -50,11 +50,11 @@ Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten w
 |     1.1    |     11.08.2022    |     Über unser ausgewähltes Projekt informieren und uns für eins entscheiden             |          | 60                 | 80                  |
 |     1.2    |     11.08.2022    |     Projekt einplanen und Zeitplan erstellen                                             |          | 90                 | 120                 |
 |     1.3    |     11.08.2022    |     Fällige Entscheidungen treffen                                                       |          | 20                 | 25                  |
-|     2.1    |     18.08.2022    |     Beginn der Realisierung der Wetter-APP, Design erstellen in FIGMA                    |          | 120                |                     |
-|     2.2    |     18.08.2022    |     Design in HTML implementieren                                                        |          | 105                |                     |
-|     3.1    |     25.08.2022    |     Design in HTML fertig implementieren                                                 |          | 40                 |                     |
-|     3.2    |     25.08.2022    |     CSS-Website Design beginnen                                                          |          | 185                |                     |
-|     4.1    |     01.09.2022    |     CSS-Website designen und optimaler Weise fertigstellen                               |          | 225                |                     |
+|     2.1    |     18.08.2022    |     Beginn der Realisierung der Wetter-APP, Design erstellen in FIGMA                    |          | 120                | 140                    |
+|     2.2    |     18.08.2022    |     Design in HTML implementieren                                                        |          | 105                | 100                    |
+|     3.1    |     25.08.2022    |     Design in HTML fertig implementieren                                                 |          | 40                 | 20                    |
+|     3.2    |     25.08.2022    |     CSS-Website Design beginnen                                                          |          | 185                | 205                    |
+|     4.1    |     01.09.2022    |     CSS-Website designen und optimaler Weise fertigstellen                               |          | 225                | 225                    |
 |     5.1    |     08.09.2022    |     Implementationsweisen von APIs recherchieren und beginnen diese zu implementieren    |          | 225                |                     |
 |     6.1    |     15.09.2022    |     API fertig implementieren und Platzhalter mit API-Werten ersetzen                    |          | 225                |                     |
 |     7.1    |     22.09.2022    |     Feinschliffe tätigen und Projekt finalisieren                                        |          | 225                |                     |
