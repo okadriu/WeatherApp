@@ -15,7 +15,7 @@
     (nur für Bildungszwecke) 
     <br />
     <br />
-    <a href="https://github.com/okadriu/WeatherApp">Live Demo</a>
+    <a href="#">Live Demo</a>
   </p>
 </div>
 
