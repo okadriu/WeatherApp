@@ -50,7 +50,7 @@ Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten w
 |     1.1    |     11.08.2022    |     Über unser ausgewähltes Projekt informieren und uns für eins entscheiden             |          | 60                 | 80                  |
 |     1.2    |     11.08.2022    |     Projekt einplanen und Zeitplan erstellen                                             |          | 90                 | 120                 |
 |     1.3    |     11.08.2022    |     Fällige Entscheidungen treffen                                                       |          | 20                 | 25                  |
-|     2.1    |     18.08.2022    |     Beginn der Realisierung der Wetter-APP, Design erstellen in FIGMA                    |          | 120                | 140                    |
+|     2.1    |     18.08.2022    |     Beginn der Realisierung der Wetter-APP, Design erstellen in FIGMA                    |          | 120                | 125                    |
 |     2.2    |     18.08.2022    |     Design in HTML implementieren                                                        |          | 105                | 100                    |
 |     3.1    |     25.08.2022    |     Design in HTML fertig implementieren                                                 |          | 40                 | 20                    |
 |     3.2    |     25.08.2022    |     CSS-Website Design beginnen                                                          |          | 185                | 205                    |
