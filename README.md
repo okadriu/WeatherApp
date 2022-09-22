@@ -56,8 +56,8 @@ Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten w
 |     3.2    |     25.08.2022    |     CSS-Website Design beginnen                                                          |          | 185                | 205                    |
 |     4.1    |     01.09.2022    |     CSS-Website designen und optimaler Weise fertigstellen                               |          | 225                | 225                    |
 |     5.1    |     08.09.2022    |     Implementationsweisen von APIs recherchieren und beginnen diese zu implementieren    |          | 225                | 225                    |
-|     6.1    |     15.09.2022    |     API fertig implementieren und Platzhalter mit API-Werten ersetzen                    |          | 225                |                     |
-|     7.1    |     22.09.2022    |     Feinschliffe tätigen und Projekt finalisieren                                        |          | 225                |                     |
+|     6.1    |     15.09.2022    |     API fertig implementieren und Platzhalter mit API-Werten ersetzen                    |          | 225                | 225                    |
+|     7.1    |     22.09.2022    |     Feinschliffe tätigen und Projekt finalisieren                                        |          | 225                | 225                    |
 |     8.1    |     29.09.2022    |     Portfolio-Eintrag erstellen und direkt abgeben                                       |          | 225                |                     |
 
 #  Entscheiden
