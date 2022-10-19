@@ -24,7 +24,7 @@
 
 ## Projekt
 
-Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten werden von einer Online-API gelesen und man kann zwischen verschiedenen Städten hin und her wechseln. Dieses Projekt befindet sich momentan in der R-Phase und Sie können den aktuellen Stand unseres Projektes jederzeit mitverfolgen.
+Unser Projekt ist eine Wetter-Applikation in Form einer Webseite. Unsere Daten werden von einer Online-API gelesen und man kann zwischen verschiedenen Städten hin und her wechseln.
 
 ## Quellen
 
